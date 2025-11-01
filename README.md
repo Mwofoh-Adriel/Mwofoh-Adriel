@@ -1,17 +1,28 @@
- 👋 Hi, I’m Adriel!
+<h3>👋 Hi, I’m Adriel!</h3>
 
-💻 I'm Adriel Mwofoh, a MERN Stack Developer and Cybersecurity Student passionate about building secure, scalable, and impactful digital experiences.
+<p>
+💻 I'm <b>Adriel Mwofoh</b>, a <b>MERN Stack Developer</b> and <b>Cybersecurity Student</b> passionate about building secure, scalable, and impactful digital experiences.
+</p>
 
+<p>
 🚀 I enjoy transforming ideas into real-world solutions through clean code, modern tools, and creative problem-solving.
+</p>
 
-🧠 I bring a strong mix of analytical thinking, disciplined problem-solving, and a collaborative mindset, along with clear and effective communication skills.
+<p>
+🧠 I bring a strong mix of <b>analytical thinking</b>, <b>disciplined problem-solving</b>, and a <b>collaborative mindset</b>, along with clear and effective <b>communication skills</b>.
+</p>
 
-🔐 Currently exploring the fascinating world of IT and Security, learning how to make systems safer, smarter, and more resilient.
+<p>
+🔐 Currently exploring the fascinating world of <b>IT and Security</b>, learning how to make systems safer, smarter, and more resilient.
+</p>
 
-😄 Life Hack: Decide where you want to be, and start moving one step at a time toward it.
+<p>
+😄 <b>Life Hack:</b> Decide where you want to be, and start moving one step at a time toward it.
+</p>
 
-🎯 Fun Fact: I love learning about new tech trends and playing music.
-
+<p>
+🎯 <b>Fun Fact:</b> I love learning about new tech trends and playing music.
+</p>
 <!-- https://github.com/anuraghazra/github-readme-stats
 [![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwofoh-Adriel&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  --> 
